@@ -1,1 +1,2 @@
 new bullets;
+new color;
